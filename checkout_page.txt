@@ -1,0 +1,3 @@
+Enter Card number
+Enter CVC
+Checkout order
